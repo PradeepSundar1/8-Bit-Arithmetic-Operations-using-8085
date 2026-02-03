@@ -1,4 +1,6 @@
 # 8-Bit-Arithmetic-Operations-using-8085
+## PRADEEP SUNDAR
+## 212224050030
 ## Aim:
 To perform 8-bit arithmetic operations such as addition, subtraction, multiplication, and division using the 8085 microprocessor.
 
